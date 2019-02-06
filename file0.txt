@@ -1,0 +1,1 @@
+file0txt created on b02 to demonstrate merge conflict
